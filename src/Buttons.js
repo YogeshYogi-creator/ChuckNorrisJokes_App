@@ -38,7 +38,7 @@ const Buttons = () => {
     }
 
     const handleMoneyChange = () => {
-        setCategory("history")
+        setCategory("money")
     }
 
     const handleMovieChange = () => {
