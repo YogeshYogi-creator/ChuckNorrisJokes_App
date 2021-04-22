@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ChuckNorrisJokes_App/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ChuckNorrisJokes_App/static/js/main.67435d7c.chunk.js",
+    "main.js.map": "/ChuckNorrisJokes_App/static/js/main.67435d7c.chunk.js.map",
+    "runtime-main.js": "/ChuckNorrisJokes_App/static/js/runtime-main.6f625ec9.js",
+    "runtime-main.js.map": "/ChuckNorrisJokes_App/static/js/runtime-main.6f625ec9.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/ChuckNorrisJokes_App/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f4c14789.chunk.js": "/ChuckNorrisJokes_App/static/js/2.f4c14789.chunk.js",
+    "static/js/2.f4c14789.chunk.js.map": "/ChuckNorrisJokes_App/static/js/2.f4c14789.chunk.js.map",
+    "index.html": "/ChuckNorrisJokes_App/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/ChuckNorrisJokes_App/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/ChuckNorrisJokes_App/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f4c14789.chunk.js.LICENSE.txt": "/ChuckNorrisJokes_App/static/js/2.f4c14789.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f625ec9.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f4c14789.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.67435d7c.chunk.js"
+  ]
+}
